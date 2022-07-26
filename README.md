@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! I'm Albert! 👋
 
 <!--
 **albert-szabo/albert-szabo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on improving my data structures and algorithms skills.
+- 🌱 I'd like to learn C++ and Haskell.
+- 👯 I’m looking to collaborate on AI alignment theory.
+- 💬 Ask me about nuclear energy (including fusion), U.S. public policy, or the lessons of the *Challenger* and *Columbia* disasters.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/albert-szabo)
+- ⚡ Fun fact: Thomas Jefferson was 33 years old when he signed the Declaration of Independence. 

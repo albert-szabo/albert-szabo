@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on improving my data structures and algorithms skills.
 - 🌱 I'd like to learn Python, C++, and Haskell.
 - 👯 I’m looking to collaborate on AI alignment theory.
-- 💬 Ask me about nuclear energy (including fusion), U.S. public policy, electoral / voting systems, or the lessons of the *Kursk*, *Challenger*, and *Columbia* disasters.
+- 💬 Ask me about nuclear energy (including fusion), U.S. public policy, electoral / voting systems, the virtues of nuclear-powered desalination plants, or the lessons of the *Kursk*, *Challenger*, and *Columbia* disasters.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/albert-szabo)
 - ⚡ Fun fact: Thomas Jefferson was 33 years old when he signed the Declaration of Independence.
 

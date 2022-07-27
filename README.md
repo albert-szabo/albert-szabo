@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on improving my data structures and algorithms skills.
-- 🌱 I'd like to learn C++ and Haskell.
+- 🌱 I'd like to learn Python, C++, and Haskell.
 - 👯 I’m looking to collaborate on AI alignment theory.
 - 💬 Ask me about nuclear energy (including fusion), U.S. public policy, electoral / voting systems, or the lessons of the *Kursk*, *Challenger*, and *Columbia* disasters.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/albert-szabo)

@@ -20,4 +20,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on AI alignment theory.
 - 💬 Ask me about nuclear energy (including fusion), U.S. public policy, electoral / voting systems, or the lessons of the *Kursk*, *Challenger*, and *Columbia* disasters.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/albert-szabo)
-- ⚡ Fun fact: Thomas Jefferson was 33 years old when he signed the Declaration of Independence. 
+- ⚡ Fun fact: Thomas Jefferson was 33 years old when he signed the Declaration of Independence.
+
+More immediately, I'm looking for software engineering roles with ambitious teams working on hard problems.

@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/albert-szabo)
 - ⚡ Fun fact: Thomas Jefferson was 33 years old when he signed the Declaration of Independence.
 
-More immediately, I'm looking for software engineering roles with ambitious teams working on hard problems.
+I'm looking for software engineering roles with ambitious teams working on hard problems.

@@ -3,6 +3,8 @@
 
 
 
+
+
 - 🔭 I’m currently working on improving my data structures and algorithms skills.
 - 🌱 I'd like to learn Python, C++, and Haskell.
 - 👯 I’m looking to collaborate on AI alignment theory.
@@ -11,6 +13,8 @@
 - ⚡ Fun fact: Thomas Jefferson was 33 years old when he signed the Declaration of Independence.
 
 I'm looking for software engineering roles with ambitious teams working on hard problems.
+
+
 
 
 

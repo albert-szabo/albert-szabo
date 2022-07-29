@@ -2,14 +2,16 @@
 <h3 align="center">A software engineer from California</h3>
 
 
+
 - 🔭 I’m currently working on improving my data structures and algorithms skills.
 - 🌱 I'd like to learn Python, C++, and Haskell.
 - 👯 I’m looking to collaborate on AI alignment theory.
 - 💬 Ask me about nuclear power (including fusion), U.S. public policy, electoral / voting systems, the virtues of nuclear-powered desalination plants, or the lessons of the *Kursk*, *Challenger*, and *Columbia* disasters.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/albert-szabo)
+- 📫 How to reach me: [email](mailto:albert.szabo@gmail.com)
 - ⚡ Fun fact: Thomas Jefferson was 33 years old when he signed the Declaration of Independence.
 
 I'm looking for software engineering roles with ambitious teams working on hard problems.
+
 
 
 <h3 align="left">Connect with me:</h3>

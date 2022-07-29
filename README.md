@@ -10,6 +10,7 @@
 - 👯 I’m looking to collaborate on AI alignment theory.
 - 💬 Ask me about nuclear power (including fusion), U.S. public policy, electoral / voting systems, the virtues of nuclear-powered desalination plants, or the lessons of the *Kursk*, *Challenger*, and *Columbia* disasters.
 - 📫 How to reach me: [email](mailto:albert.szabo@gmail.com)
+- - 📫 How to reach me **albert.szabo@gmail.com**
 - ⚡ Fun fact: Thomas Jefferson was 33 years old when he signed the Declaration of Independence.
 
 I'm looking for software engineering roles with ambitious teams working on hard problems.

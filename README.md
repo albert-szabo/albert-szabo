@@ -4,7 +4,7 @@
 <br>
 
 - 🔭 I’m currently working on improving my data structures and algorithms skills.
-- 🌱 I'd like to learn Python, C++, and Haskell.
+- 🌱 I'd like to learn Python, C++, Haskell, and Rust.
 - 👯 I’m looking to collaborate on AI alignment theory.
 - 💬 Ask me about nuclear power (including fusion), U.S. public policy, electoral / voting systems, the virtues of nuclear-powered desalination plants, or the lessons of the *Kursk*, *Challenger*, and *Columbia* disasters.
 - 📫 How to reach me: [email](mailto:albert.szabo@gmail.com)
